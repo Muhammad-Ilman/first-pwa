@@ -2,7 +2,7 @@
     "name": "My First PWA",
     "short_name": "My PWA",
     "description": "Aplikasi PWA pertama saya",
-    "start_url": "localhost:8158/index.html",
+    "start_url": "https://muhammad-ilman.github.io/first-pwa/index.htm",
     "scope": ".",
     "display": "standalone",
     "background_color": "#00897B",
