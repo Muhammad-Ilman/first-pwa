@@ -1,4 +1,4 @@
-const CACHE_NAME = "firstpwa-v4";
+const CACHE_NAME = "firstpwa-v5";
 var urlsToCache = [
   "/",
   "/icon.png",
